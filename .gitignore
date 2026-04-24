@@ -5,7 +5,7 @@ __pycache__/
 *.pyc
 
 # Variables de entorno (Seguridad)
-.env
+#.env
 
 # Datos de Docker
 postgres_data/
