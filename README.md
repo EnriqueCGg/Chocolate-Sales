@@ -89,7 +89,7 @@ Once the server is running, explore the API and test the endpoints directly from
 ---
 
 ## 🤝 Collaborators
-* **Enrique Arturo Emmanuel Chi Góngora** - *Data Science & AI (UPY)*
+* **Enrique Arturo Emmanuel Chi Gongora**
 * **Andrea Camila González Novelo**
 * **Kevin Daniel Castellanos Chan**
 * **Lizandro Emiliano Martin Alpuche**
