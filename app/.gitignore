@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Variables de entorno (Seguridad)
+.env
+
+# Datos de Docker
+postgres_data/
+
+# Archivos de sistema de Mac
+.DS_Store
