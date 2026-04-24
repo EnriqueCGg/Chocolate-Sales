@@ -11,4 +11,4 @@ __pycache__/
 postgres_data/
 
 # Archivos de sistema de Mac
-.DS_Store
+.DS_Store 
