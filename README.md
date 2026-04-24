@@ -1,5 +1,4 @@
-
-# 🍫 Chocolate Factory - Data Engineering & API
+# 🍫 Chocolate Sales - Data Engineering & API
 
 This project implements a full Data Engineering workflow: from raw CSV data to a containerized PostgreSQL database, culminating in a **FastAPI** RestAPI to monitor business KPIs. It was developed as part of the Data Science and AI program at **UPY**.
 
@@ -91,16 +90,9 @@ Once the server is running, explore the API and test the endpoints directly from
 
 ## 🤝 Collaborators
 * **Enrique Arturo Emmanuel Chi Góngora** - *Data Science & AI (UPY)*
-* **Saul Ruiz Peña**
+* **Andrea Camila González Novelo**
 * **Kevin Daniel Castellanos Chan**
+* **Lizandro Emiliano Martin Alpuche**
+* **Alejandra Saraí Vizcarra May**
 
 ---
-
-### 💡 Pro Tip for DBeaver
-To visualize the "lines" (relationships) we established: 
-1. Connect DBeaver to `localhost:5432`.
-2. Open the `chocolate_db` database.
-3. Select the `sales` table and click on the **ER Diagram** tab.
-```
-
-How does this look for your repo?
